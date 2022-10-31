@@ -1,5 +1,4 @@
 ## Hello, I'm Kyle Pelham!
-### student  20050825 MMU UK
 &nbsp;
 
 **About Me:**
