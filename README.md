@@ -14,13 +14,13 @@
 ---
 **Projects I've Created**
 
-- Game Engine (A 3D openGL game engine with model loading, shadows dynamic lighting and deferred rendering)
+- Game Engine (A 3D openGL game engine with model loading, shadows, dynamic lighting and deferred rendering)
 - Remote Administration Network Tools (C++ networking via ASIO, opus audio and HEVC video codec experience)
 - Discord Bots (Neural network based chat bots using GPT-3, general purpose and fun features) <- ahead of the curve on that one
 - Small Games (Minecraft UE5, uni/college project, chess)
-- Game Automation, Simulation and Hacks (Automatic wow combat via APL, Roblox Auto Chess and Mumble Implementation)
-- Physics Simulations (fabric / cloth physics, 3D gravity, raybased collision)
-- General QoL Tools (Managers / Trackers, Auto Authenticator Input via Shared Secret)
+- Game Automation, Simulation and Hacks (World of Warcraft APL automation, Roblox auto chess and Mumble implementation)
+- Physics Simulations (Fabric / cloth physics, 3D gravity, raybased collision)
+- General QoL Tools (Managers / trackers, Auto Steam authenticator input via an extracted shared Secret)
 - And much more...
 
 &nbsp;
