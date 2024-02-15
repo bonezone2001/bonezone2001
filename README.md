@@ -4,7 +4,7 @@
 **About Me:**
 
 - I’m currently learning __Reverse Engineering__, __Assembly__, & __Physics Simulations__.
-- I mainly use github to hold or distrubute projects I've made that I'm happy sharing!
+- I mainly use github to hold private projects or share projects I've made that I'm happy sharing (although typically not maintained)!
 - Ask me about anything, I can probably help or show you where to look.
 - I have created many cool projects I might wish to share eventually.
 - Sole creator and maintainer of https://lootlust.gg
