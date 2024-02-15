@@ -16,7 +16,7 @@
 
 - Game Engine (A 3D openGL game engine with model loading, shadows dynamic lighting and deferred rendering)
 - Remote Administration Network Tools (C++ networking via ASIO, opus audio and HEVC video codec experience)
-- Discord Bots (Neural network based chat bots using GPT-3, general purpose and fun features)
+- Discord Bots (Neural network based chat bots using GPT-3, general purpose and fun features) <- ahead of the curve on that one
 - Small Games (Minecraft UE5, uni/college project, chess)
 - Game Automation, Simulation and Hacks (Automatic wow combat via APL, Roblox Auto Chess and Mumble Implementation)
 - Physics Simulations (fabric / cloth physics, 3D gravity, raybased collision)
