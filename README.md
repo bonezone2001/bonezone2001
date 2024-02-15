@@ -7,6 +7,7 @@
 - I mainly use github to hold or distrubute projects I've made that I'm happy sharing!
 - Ask me about anything, I can probably help or show you where to look.
 - I have created many cool projects I might wish to share eventually.
+- Sole creator and maintainer of http://lootlust.gg
 
 &nbsp;
 
